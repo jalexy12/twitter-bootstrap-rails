@@ -73,6 +73,8 @@ After running `bundle install`, run the generator:
 
     rails generate bootstrap:install static
 
+If your Rails server is running, restart it.
+
 ## Generating layouts and views
 
 You can run following generators to get started with Bootstrap quickly.
